@@ -1,0 +1,85 @@
+/* SOBRE NOSOTROS */
+
+.tituloNosotros {
+    text-align: center;
+    margin-left: 297px;
+    margin-bottom: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    color: #706526;
+    margin-top: 110px;
+}
+
+.imgEscribania {
+    width: 100%;
+    border-radius: 1%;
+    /* margin-left: 20%; */
+}
+
+
+
+.parrafoNosotros {
+    font-size: 1rem;
+    color: #1a2029;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 95px;
+    font-size: 1.5rem;
+    margin-right: 13rem;
+    width: 34rem;
+}
+
+
+.contenidoNosotros {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 3rem;
+    margin-bottom: 6rem;
+
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+  
+
+    /* SOBRE NOSOTROS */
+
+    .imgEscribania {
+        width: 100%;
+        border-radius: 1%;
+        margin: 0;
+    }
+
+    .tituloNosotros {
+        text-align: center;
+        margin-left: 1rem;
+        margin-bottom: 1rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 3rem;
+        color: #706526
+    }
+
+
+    .parrafoNosotros {
+        color: #000000;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 1px;
+        padding: 1rem;
+        font-size: 1.2rem;
+        margin-top: 32px;
+        width: 100%;
+        text-align: center;
+    }
+
+
+    .contenidoNosotros {
+        display: block;
+        flex-direction: column;
+        padding: 1rem;
+        margin-bottom: 6rem;
+
+    }
+
+}

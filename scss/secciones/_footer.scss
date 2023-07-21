@@ -1,0 +1,88 @@
+// /* Estilos generales del footer */
+footer {
+    background-color: #1a2029;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-logo img {
+    max-width: 186px;
+    margin-left: 38px;
+    margin-right: 167px;
+}
+
+.footer-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1;
+}
+
+.contacto,
+.secciones {
+    flex: 1;
+    padding: 10px;
+}
+
+.contacto h4,
+.secciones h4 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #b18500;
+}
+
+.contacto p,
+.secciones ul {
+    margin: 0;
+}
+
+.secciones ul {
+    list-style: none;
+    padding: 0;
+}
+
+.secciones li {
+    margin-bottom: 5px;
+}
+
+.secciones a {
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.secciones a i {
+    margin-right: 5px;
+}
+
+
+
+@media (max-width: 768px) {
+    footer {
+        flex-direction: column;
+        align-items: center;
+
+
+    }
+
+    .footer-info {
+        width: 100%;
+    }
+
+    .contacto,
+    .secciones {
+        width: 100%;
+    }
+}
+
+.footer-logo img {
+    margin-bottom: 20px;
+    margin-top: 15px;
+    margin-left: 69px;
+}

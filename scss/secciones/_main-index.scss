@@ -1,0 +1,307 @@
+
+// MAIN  INDEX 
+
+.cardtext-bg-dark {
+    border-radius: 0%;
+}
+
+
+.card-title {
+    font-size: 56px;
+    text-decoration: none;
+    color: #b18500;
+    ;
+    margin-bottom: 18px;
+    margin-left: 5px;
+    width: 52rem;
+
+}
+
+.card-text {
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 5px;
+    color: white;
+}
+
+.card-img-overlay {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+
+/* Atencion personalizada */
+
+.main__mensaje {
+    margin-top: 3rem;
+    width: 93%;
+    height: 15rem;
+    background-color: #1a2029;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    transform: translateY(-10rem);
+    border: 2px solid #857416;
+    margin-left: 60px;
+}
+
+
+
+.main__cajaMensaje1 {
+
+    width: 50%;
+}
+
+.main__titleMensaje {
+    color: #b18500;
+    ;
+    font-size: 2.5rem;
+    width: 40rem;
+}
+
+.textMensaje {
+    color: #ffffff;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+}
+
+.botonMensaje {
+    width: 20rem;
+    height: 3rem;
+    background-color: #b18500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+
+.botonMensaje:hover {
+    background-color: #ad8f35;
+}
+
+
+.botonMensaje a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+
+}
+
+.botonMensaje a:hover {
+    font-weight: bold;
+}
+
+/*  sección de servicios index */
+
+
+.servicios {
+
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.servicios h2 {
+    color: #b18500;
+    font-size: 3rem;
+    margin-bottom: 30px;
+}
+
+.servicios ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.servicios li {
+    margin-bottom: 10px;
+    color: #1a2029;
+    font-size: 1.5rem;
+    background-color: #1a202912;
+    width: 900px;
+    text-align: center;
+    border-radius: 33px;
+}
+
+.servicios li:hover {
+    background-color: #1a20298e;
+    color: white;
+}
+
+
+.botonVer {
+    border-radius: 49px;
+    background-color: #1a2029;
+    width: 893px;
+    font-size: 1.2rem;
+    margin-left: 1px;
+    margin-top: 30px;
+}
+
+.botonVer:hover {
+    background-color: #1a2029c4;
+}
+
+/* sección de equipo */
+
+.equipo {
+    padding: 20px;
+    background-color: #adb5bd42;
+    margin-top: 109px;
+    margin-bottom: 108px;
+}
+
+.equipo h2 {
+    color: #b18500;
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 54px;
+}
+
+.miembro {
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.miembro img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.miembro h3 {
+    color: #b18500;
+    font-size: 18px;
+    margin-top: 40px;
+}
+
+.miembro p {
+    color: #777;
+    font-size: 16px;
+    text-align: center;
+}
+
+.miembro p:hover {
+    background-color: #1a2029a6;
+    color: white;
+}
+
+
+/* galería de imágenes */
+.galeria {
+    padding: 20px;
+    text-align: center;
+}
+
+.galeria h2 {
+    color: #b18500;
+    font-size: 3rem;
+    margin-bottom: 78px;
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 172px;
+}
+
+.grid-item {
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.grid-item img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s;
+    cursor: pointer;
+}
+
+.grid-item img:hover {
+    transform: scale(1.1);
+}
+
+/* Certificaciones */
+.certificaciones {
+    background-color: #adb5bd42;
+    padding: 20px;
+}
+
+.certificaciones h2 {
+    color: #b18500;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 37px;
+}
+
+.lista-certificaciones {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.lista-certificaciones li {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    border: 1px solid #1a2029;
+    border-radius: 5px;
+    background-color: #f8f9fafa;
+}
+
+
+.lista-certificaciones li:hover {
+    background-color: #1a2029c4;
+    color: white;
+}
+
+
+
+/* Contactanos */
+.cta {
+    padding: 40px;
+    text-align: center;
+}
+
+.cta h2 {
+    color: #b18500;
+    font-size: 2rem;
+    margin-top: 85px;
+}
+
+
+.cta p {
+    color: #777;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #1a2029;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.cta-button:hover {
+    background-color: #1a2029c4;
+}
+
+

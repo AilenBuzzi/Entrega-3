@@ -1,0 +1,55 @@
+//   sección de servicios
+.servicios {
+    padding: 40px;
+    text-align: center;
+}
+
+.servicios h2 {
+    color: #b18500;
+    font-size: 3rem;
+}
+
+.servicios-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.servicio {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+.servicio img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+.servicio h3 {
+    color: #706525;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.servicio p {
+    color: #1a2029a8;
+    font-size: 16px;
+}
+
+.servicio:hover {
+    background-color: #8a7c2eb2;
+}
+
+.servicio h3:hover {
+    color: #d8c34f;
+}
+
+.servicio p:hover {
+    color: white;
+}
+
+
+
