@@ -1,3 +1,6 @@
+$marron:#b18500;
+$azul:#1a2029;
+$bordercolor: #857416;
 
 // MAIN  INDEX 
 
@@ -9,7 +12,7 @@
 .card-title {
     font-size: 56px;
     text-decoration: none;
-    color: #b18500;
+    color:$marron;
     ;
     margin-bottom: 18px;
     margin-left: 5px;
@@ -38,13 +41,13 @@
     margin-top: 3rem;
     width: 93%;
     height: 15rem;
-    background-color: #1a2029;
+    background-color:$azul;
     display: flex;
     align-items: center;
     justify-content: space-around;
     position: relative;
     transform: translateY(-10rem);
-    border: 2px solid #857416;
+    border: 2px solid $bordercolor;
     margin-left: 60px;
 }
 
@@ -71,7 +74,7 @@
 .botonMensaje {
     width: 20rem;
     height: 3rem;
-    background-color: #b18500;
+    background-color: $marron;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -79,7 +82,7 @@
 }
 
 .botonMensaje:hover {
-    background-color: #ad8f35;
+    background-color: $marron;
 }
 
 
@@ -106,7 +109,7 @@
 }
 
 .servicios h2 {
-    color: #b18500;
+    color: $marron;
     font-size: 3rem;
     margin-bottom: 30px;
 }
@@ -119,7 +122,7 @@
 
 .servicios li {
     margin-bottom: 10px;
-    color: #1a2029;
+    color: $azul;
     font-size: 1.5rem;
     background-color: #1a202912;
     width: 900px;
@@ -135,7 +138,7 @@
 
 .botonVer {
     border-radius: 49px;
-    background-color: #1a2029;
+    background-color: $azul;
     width: 893px;
     font-size: 1.2rem;
     margin-left: 1px;
@@ -156,7 +159,7 @@
 }
 
 .equipo h2 {
-    color: #b18500;
+    color:$marron;
     font-size: 3rem;
     text-align: center;
     margin-bottom: 54px;
@@ -179,13 +182,13 @@
 }
 
 .miembro h3 {
-    color: #b18500;
+    color:$marron;
     font-size: 18px;
     margin-top: 40px;
 }
 
 .miembro p {
-    color: #777;
+    color: #6e7072fb;
     font-size: 16px;
     text-align: center;
 }
@@ -203,7 +206,7 @@
 }
 
 .galeria h2 {
-    color: #b18500;
+    color:$marron;
     font-size: 3rem;
     margin-bottom: 78px;
 }
@@ -240,7 +243,7 @@
 }
 
 .certificaciones h2 {
-    color: #b18500;
+    color:$marron;
     font-size: 2.5rem;
     text-align: center;
     margin-bottom: 37px;
@@ -257,7 +260,7 @@
     display: inline-block;
     margin: 10px;
     padding: 10px 20px;
-    border: 1px solid #1a2029;
+    border: 1px solid $azul;
     border-radius: 5px;
     background-color: #f8f9fafa;
 }
@@ -277,14 +280,14 @@
 }
 
 .cta h2 {
-    color: #b18500;
+    color: $marron;
     font-size: 2rem;
     margin-top: 85px;
 }
 
 
 .cta p {
-    color: #777;
+    color: #6e7072fb;
     font-size: 18px;
     margin-top: 10px;
 }
@@ -292,7 +295,7 @@
 .cta-button {
     display: inline-block;
     padding: 15px 30px;
-    background-color: #1a2029;
+    background-color: $azul;
     color: #fff;
     font-size: 20px;
     text-decoration: none;
@@ -304,4 +307,96 @@
     background-color: #1a2029c4;
 }
 
+@media screen and (max-width: 768px) {
 
+    // Caja atencion personalizada
+    .main__cajaMensaje1 {
+
+        width: 92%;
+        height: 162px;
+    }
+
+    .main__mensaje {
+        width: 100%;
+        height: 19rem;
+        background-color:$azul;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        border: 2px solid $bordercolor;
+        margin-left: 0px;
+        flex-direction: column;
+        margin-bottom: 48px;
+        margin-top: 160px;
+    }
+
+    .textMensaje {
+        margin-left: 10px;
+        color: #ffffff;
+        font-size: 1rem;
+        margin-top: 36px;
+        width: 359px;
+        text-align: inherit;
+    }
+
+    .main__titleMensaje {
+
+        color: $marron;
+        font-size: 1.6em;
+        width: 355px;
+        margin-top: 23px;
+        margin-left: 12px;
+    }
+
+    .botonMensaje {
+        width: 16rem;
+        height: 3rem;
+        background-color: $marron;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 12px;
+    }
+    
+    // imgagen principal
+
+.card-title {
+    font-size: 1.6rem;
+    text-decoration: none;
+    color:$marron;
+    margin-bottom: 18px;
+    margin-left: 5px;
+    width: 19rem;
+    background-color: #1a202954;
+
+}
+
+
+.card-text {
+    font-size: 1rem;
+    text-decoration: none;
+    margin-left: 5px;
+    color: white;
+    height: 90px;
+    width: 244px;
+    background-color: #1a202978;
+}
+
+
+// Equipo
+
+.equipo h2 {
+    color: $marron;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 54px;
+}
+
+// Galeria de imagenes
+
+.galeria h2 {
+    color:$marron;
+    font-size: 2.5rem;
+    margin-bottom: 78px;
+}
+}
