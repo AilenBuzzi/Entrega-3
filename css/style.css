@@ -314,12 +314,15 @@
 .cta h2 {
   color: #b18500;
   font-size: 2rem;
-  margin-top: 85px; }
+  margin-top: 85px;
+  font-family: "Libre Baskerville", serif;
+  height: 50px; }
 
 .cta p {
-  color: #6e7072fb;
+  color: #0e1116;
   font-size: 18px;
-  margin-top: 10px; }
+  margin-top: 10px;
+  font-family: "Lato", sans-serif; }
 
 .cta-button {
   display: inline-block;
@@ -329,7 +332,8 @@
   font-size: 20px;
   text-decoration: none;
   border-radius: 5px;
-  margin-top: 20px; }
+  margin-top: 20px;
+  font-family: "Lato", sans-serif; }
 
 .cta-button:hover {
   background-color: #1a2029c4; }
@@ -403,7 +407,13 @@
     text-align: center;
     margin-bottom: 37px;
     font-family: "Libre Baskerville", serif;
-    height: 105px; } }
+    height: 105px; }
+  .cta h2 {
+    color: #b18500;
+    font-size: 2rem;
+    margin-top: 85px;
+    font-family: "Libre Baskerville", serif;
+    height: 80px; } }
 
 .servicios {
   padding: 40px;
@@ -636,7 +646,8 @@
 .buttonForm {
   color: white;
   background-color: #0e1116;
-  border-color: 0%; }
+  border-color: 0%;
+  font-family: "Lato", sans-serif; }
 
 .buttonForm:hover {
   background-color: #1a2029c4; }
@@ -734,3 +745,6 @@ footer {
   margin-bottom: 20px;
   margin-top: 15px;
   margin-left: 69px; }
+
+.main__mensaje {
+  background-image: linear-gradient(#0e1116, #adb5bd42); }

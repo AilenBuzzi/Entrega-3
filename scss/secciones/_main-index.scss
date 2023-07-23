@@ -161,7 +161,7 @@
 
 .equipo {
     padding: 20px;
-    background-color: #adb5bd42;
+    background-color: $gris;
     margin-top: 109px;
     margin-bottom: 108px;
 }
@@ -253,7 +253,7 @@
 
 /* Certificaciones */
 .certificaciones {
-    background-color: #adb5bd42;
+    background-color: $gris;
     padding: 20px;
 }
 
@@ -292,6 +292,7 @@
 
 
 /* Contactanos */
+
 .cta {
     padding: 40px;
     text-align: center;
@@ -301,13 +302,16 @@
     color: $marron;
     font-size: 2rem;
     margin-top: 85px;
+    font-family: $titulo;
+    height: 50px;
 }
 
 
 .cta p {
-    color: #6e7072fb;
+    color: $azul;
     font-size: 18px;
     margin-top: 10px;
+    font-family: $parrafo;
 }
 
 .cta-button {
@@ -319,6 +323,7 @@
     text-decoration: none;
     border-radius: 5px;
     margin-top: 20px;
+    font-family: $parrafo;
 }
 
 .cta-button:hover {
@@ -430,6 +435,18 @@
         margin-bottom: 37px;
         font-family: $titulo;
         height: 105px;
+    
     }
 
+
+    // contactanos
+
+    .cta h2 {
+        color: $marron;
+        font-size: 2rem;
+        margin-top: 85px;
+        font-family: $titulo;
+        height: 80px;
+    }
+    
 }
