@@ -1,4 +1,20 @@
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300&family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300&family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300&family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300&family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300&family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300&family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300&family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300&family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Libre+Baskerville&family=Libre+Franklin:ital,wght@0,200;1,300;1,500&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -36,7 +52,8 @@
 
 .nav-link {
   color: white;
-  font-size: 1rem; }
+  font-size: 1rem;
+  font-family: "Libre Baskerville", serif; }
 
 .nav-link:hover {
   color: #9a8b38; }
@@ -69,15 +86,19 @@
   font-size: 56px;
   text-decoration: none;
   color: #b18500;
+  font-family: "Libre Baskerville", serif;
   margin-bottom: 18px;
   margin-left: 5px;
-  width: 52rem; }
+  height: 205px;
+  width: 60rem; }
 
 .card-text {
   font-size: 20px;
   text-decoration: none;
   margin-left: 5px;
-  color: white; }
+  color: white;
+  width: 728px;
+  font-family: "Lato", sans-serif; }
 
 .card-img-overlay {
   display: flex;
@@ -89,7 +110,7 @@
   margin-top: 3rem;
   width: 93%;
   height: 15rem;
-  background-color: #1a2029;
+  background-color: #0e1116;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -104,12 +125,14 @@
 .main__titleMensaje {
   color: #b18500;
   font-size: 2.5rem;
-  width: 40rem; }
+  width: 64rem;
+  font-family: "Libre Baskerville", serif; }
 
 .textMensaje {
   color: #ffffff;
   font-size: 1.1rem;
-  margin-top: 1rem; }
+  margin-top: 1rem;
+  font-family: "Lato", sans-serif; }
 
 .botonMensaje {
   width: 20rem;
@@ -118,7 +141,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 12px; }
+  border-radius: 12px;
+  font-family: "Libre Baskerville", serif; }
 
 .botonMensaje:hover {
   background-color: #b18500; }
@@ -141,7 +165,8 @@
 .servicios h2 {
   color: #b18500;
   font-size: 3rem;
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  font-family: "Libre Baskerville", serif; }
 
 .servicios ul {
   list-style: none;
@@ -150,12 +175,13 @@
 
 .servicios li {
   margin-bottom: 10px;
-  color: #1a2029;
+  color: #0e1116;
   font-size: 1.5rem;
   background-color: #1a202912;
   width: 900px;
   text-align: center;
-  border-radius: 33px; }
+  border-radius: 33px;
+  font-family: "Lato", sans-serif; }
 
 .servicios li:hover {
   background-color: #1a20298e;
@@ -163,11 +189,12 @@
 
 .botonVer {
   border-radius: 49px;
-  background-color: #1a2029;
+  background-color: #0e1116;
   width: 893px;
   font-size: 1.2rem;
   margin-left: 1px;
-  margin-top: 30px; }
+  margin-top: 30px;
+  font-family: "Lato", sans-serif; }
 
 .botonVer:hover {
   background-color: #1a2029c4; }
@@ -183,7 +210,8 @@
   color: #b18500;
   font-size: 3rem;
   text-align: center;
-  margin-bottom: 54px; }
+  margin-bottom: 54px;
+  font-family: "Libre Baskerville", serif; }
 
 .miembro {
   display: flex;
@@ -202,12 +230,14 @@
 .miembro h3 {
   color: #b18500;
   font-size: 18px;
-  margin-top: 40px; }
+  margin-top: 40px;
+  font-family: "Libre Baskerville", serif; }
 
 .miembro p {
-  color: #6e7072fb;
+  color: #0e1116;
   font-size: 16px;
-  text-align: center; }
+  text-align: center;
+  font-family: "Lato", sans-serif; }
 
 .miembro p:hover {
   background-color: #1a2029a6;
@@ -221,7 +251,8 @@
 .galeria h2 {
   color: #b18500;
   font-size: 3rem;
-  margin-bottom: 78px; }
+  margin-bottom: 78px;
+  font-family: "Libre Baskerville", serif; }
 
 .grid-container {
   display: grid;
@@ -252,19 +283,22 @@
   color: #b18500;
   font-size: 2.5rem;
   text-align: center;
-  margin-bottom: 37px; }
+  margin-bottom: 37px;
+  font-family: "Libre Baskerville", serif;
+  height: 60px; }
 
 .lista-certificaciones {
   list-style: none;
   padding: 0;
   margin: 0;
-  text-align: center; }
+  text-align: center;
+  font-family: "Lato", sans-serif; }
 
 .lista-certificaciones li {
   display: inline-block;
   margin: 10px;
   padding: 10px 20px;
-  border: 1px solid #1a2029;
+  border: 1px solid #0e1116;
   border-radius: 5px;
   background-color: #f8f9fafa; }
 
@@ -290,7 +324,7 @@
 .cta-button {
   display: inline-block;
   padding: 15px 30px;
-  background-color: #1a2029;
+  background-color: #0e1116;
   color: #fff;
   font-size: 20px;
   text-decoration: none;
@@ -307,7 +341,7 @@
   .main__mensaje {
     width: 100%;
     height: 19rem;
-    background-color: #1a2029;
+    background-color: #0e1116;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -325,10 +359,9 @@
     text-align: inherit; }
   .main__titleMensaje {
     color: #b18500;
-    font-size: 1.6em;
-    width: 355px;
-    margin-top: 23px;
-    margin-left: 12px; }
+    font-size: 1.5rem;
+    width: 380px;
+    margin-top: 23px; }
   .botonMensaje {
     width: 16rem;
     height: 3rem;
@@ -343,25 +376,34 @@
     color: #b18500;
     margin-bottom: 18px;
     margin-left: 5px;
-    width: 19rem;
+    width: 15rem;
     background-color: #1a202954; }
   .card-text {
     font-size: 1rem;
     text-decoration: none;
     margin-left: 5px;
     color: white;
-    height: 90px;
-    width: 244px;
+    height: 139px;
+    width: 275px;
     background-color: #1a202978; }
   .equipo h2 {
     color: #b18500;
-    font-size: 2.5rem;
+    font-size: 2rem;
     text-align: center;
-    margin-bottom: 54px; }
+    margin-bottom: 54px;
+    height: 39px; }
   .galeria h2 {
     color: #b18500;
-    font-size: 2.5rem;
-    margin-bottom: 78px; } }
+    font-size: 2rem;
+    margin-bottom: 78px;
+    height: 47px; }
+  .certificaciones h2 {
+    color: #b18500;
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 37px;
+    font-family: "Libre Baskerville", serif;
+    height: 105px; } }
 
 .servicios {
   padding: 40px;
@@ -369,7 +411,8 @@
 
 .servicios h2 {
   color: #b18500;
-  font-size: 3rem; }
+  font-size: 3rem;
+  font-family: "Libre Baskerville", serif; }
 
 .servicios-grid {
   display: grid;
@@ -390,11 +433,13 @@
 .servicio h3 {
   color: #b18500;
   font-size: 20px;
-  margin-bottom: 10px; }
+  margin-bottom: 10px;
+  font-family: "Libre Baskerville", serif; }
 
 .servicio p {
-  color: #1a2029;
-  font-size: 16px; }
+  color: #0e1116;
+  font-size: 16px;
+  font-family: "Lato", sans-serif; }
 
 .servicio:hover {
   background-color: #8a7c2eb2; }
@@ -408,7 +453,7 @@
 @media screen and (max-width: 768px) {
   .servicios li {
     margin-bottom: 10px;
-    color: #1a2029;
+    color: #0e1116;
     font-size: 1.3rem;
     background-color: #1a202912;
     width: 342px;
@@ -417,7 +462,7 @@
     margin-left: 0px; }
   .botonVer {
     border-radius: 49px;
-    background-color: #1a2029;
+    background-color: #0e1116;
     width: 400p;
     width: 342px;
     font-size: 1.2rem;
@@ -425,8 +470,9 @@
     margin-top: 30px; }
   .servicios h2 {
     color: #b18500;
-    font-size: 2.5rem;
-    width: 350px; }
+    font-size: 2rem;
+    width: 388px;
+    height: 39px; }
   .servicios {
     width: 398px;
     padding: 40px;
@@ -437,7 +483,7 @@
   text-align: center;
   margin-left: 297px;
   margin-bottom: 3rem;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Libre Baskerville", serif;
   font-size: 3rem;
   color: #b18500;
   margin-top: 110px; }
@@ -448,8 +494,8 @@
 
 .parrafoNosotros {
   font-size: 1rem;
-  color: #1a2029;
-  font-family: Arial, Helvetica, sans-serif;
+  color: #0e1116;
+  font-family: "Lato", sans-serif;
   margin-left: 95px;
   font-size: 1.5rem;
   margin-right: 13rem;
@@ -472,12 +518,12 @@
     text-align: center;
     margin-left: 1rem;
     margin-bottom: 1rem;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Libre Baskerville", serif;
     font-size: 3rem;
     color: #b18500; }
   .parrafoNosotros {
-    color: #1a2029;
-    font-family: Arial, Helvetica, sans-serif;
+    color: #0e1116;
+    font-family: "Lato", sans-serif;
     margin-left: 1px;
     padding: 1rem;
     font-size: 1.2rem;
@@ -495,7 +541,8 @@
   color: #b18500;
   font-size: 3rem;
   text-align: center;
-  margin-top: 94px; }
+  margin-top: 94px;
+  font-family: "Libre Baskerville", serif; }
 
 .testCarrusel {
   width: 100%;
@@ -534,14 +581,17 @@
   /* seccion testimonios */
   .tituloTestimonio {
     color: #b18500;
-    font-size: 2.5rem;
+    font-size: 2rem;
     text-align: center;
     margin-top: 46px;
-    margin-bottom: 100px; }
+    margin-bottom: 100px;
+    font-family: "Libre Baskerville", serif;
+    width: 383px;
+    height: 81px; }
   .testCarrusel {
     width: 100%;
     height: 34vh;
-    background-color: #1a2029; }
+    background-color: #0e1116; }
   .carousel {
     width: 1000px;
     margin-left: calc(50vw - 500px); }
@@ -570,7 +620,7 @@
   text-align: center;
   margin-top: 3rem;
   margin-bottom: 4rem;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Libre Baskerville", serif;
   font-size: 3rem;
   color: #b18500; }
 
@@ -585,7 +635,7 @@
 
 .buttonForm {
   color: white;
-  background-color: #1a2029;
+  background-color: #0e1116;
   border-color: 0%; }
 
 .buttonForm:hover {
@@ -595,6 +645,10 @@
   background-color: #1a20293b;
   border-color: inherit;
   box-shadow: none; }
+
+.form-label {
+  font-family: "Libre Baskerville", serif;
+  color: #0e1116; }
 
 @media screen and (max-width: 768px) {
   /* FORMULARIO SECCION CONTACTO */
@@ -642,11 +696,13 @@ footer {
 .secciones h4 {
   margin-top: 0;
   margin-bottom: 10px;
-  color: #b18500; }
+  color: #b18500;
+  font-family: "Libre Baskerville", serif; }
 
 .contacto p,
 .secciones ul {
-  margin: 0; }
+  margin: 0;
+  font-family: "Lato", sans-serif; }
 
 .secciones ul {
   list-style: none;

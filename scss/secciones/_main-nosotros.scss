@@ -1,6 +1,5 @@
-$marron:#b18500;
-$azul:#1a2029;
-$bordercolor: #857416;
+@import "../variables/colores";
+@import "../variables/fuentes";
 
 /* SOBRE NOSOTROS */
 
@@ -8,7 +7,7 @@ $bordercolor: #857416;
     text-align: center;
     margin-left: 297px;
     margin-bottom: 3rem;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: $titulo;
     font-size: 3rem;
     color: $marron;
     margin-top: 110px;
@@ -24,7 +23,7 @@ $bordercolor: #857416;
 .parrafoNosotros {
     font-size: 1rem;
     color: $azul;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: $parrafo;
     margin-left: 95px;
     font-size: 1.5rem;
     margin-right: 13rem;
@@ -59,7 +58,7 @@ $bordercolor: #857416;
         text-align: center;
         margin-left: 1rem;
         margin-bottom: 1rem;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: $titulo;
         font-size: 3rem;
         color: $marron
     }
@@ -67,7 +66,7 @@ $bordercolor: #857416;
 
     .parrafoNosotros {
         color: $azul;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: $parrafo;
         margin-left: 1px;
         padding: 1rem;
         font-size: 1.2rem;

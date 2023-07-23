@@ -1,6 +1,5 @@
-$marron:#b18500;
-$azul:#1a2029;
-$bordercolor: #857416;
+@import "../variables/colores";
+@import "../variables/fuentes";
 
 // /* FORMULARIO SECCION CONTACTO*/
 
@@ -8,7 +7,7 @@ $bordercolor: #857416;
     text-align: center;
     margin-top: 3rem;
     margin-bottom: 4rem;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: $titulo;
     font-size: 3rem;
     color: $marron ;
 }
@@ -43,7 +42,10 @@ $bordercolor: #857416;
 }
 
 
-
+.form-label {
+    font-family: $titulo;
+    color: $azul;
+}
 
 @media screen and (max-width: 768px) {
 

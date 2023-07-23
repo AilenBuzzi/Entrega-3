@@ -1,3 +1,7 @@
+@import "../variables/colores";
+@import "../variables/fuentes";
+
+
 // /* Estilos generales del footer */
 footer {
     background-color: #1a2029;
@@ -34,11 +38,15 @@ footer {
     margin-top: 0;
     margin-bottom: 10px;
     color: #b18500;
+    font-family: $titulo;
+
+    
 }
 
 .contacto p,
 .secciones ul {
     margin: 0;
+    font-family: $parrafo;
 }
 
 .secciones ul {

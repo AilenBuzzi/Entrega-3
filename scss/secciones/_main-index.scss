@@ -1,6 +1,6 @@
-$marron:#b18500;
-$azul:#1a2029;
-$bordercolor: #857416;
+@import "../variables/colores";
+@import "../variables/fuentes";
+
 
 // MAIN  INDEX 
 
@@ -12,11 +12,12 @@ $bordercolor: #857416;
 .card-title {
     font-size: 56px;
     text-decoration: none;
-    color:$marron;
-    ;
+    color: #b18500;
+    font-family: $titulo;
     margin-bottom: 18px;
     margin-left: 5px;
-    width: 52rem;
+    height: 205px;
+    width: 60rem;
 
 }
 
@@ -25,6 +26,8 @@ $bordercolor: #857416;
     text-decoration: none;
     margin-left: 5px;
     color: white;
+    width: 728px;
+    font-family: $parrafo;
 }
 
 .card-img-overlay {
@@ -41,7 +44,7 @@ $bordercolor: #857416;
     margin-top: 3rem;
     width: 93%;
     height: 15rem;
-    background-color:$azul;
+    background-color: $azul;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -59,16 +62,17 @@ $bordercolor: #857416;
 }
 
 .main__titleMensaje {
-    color: #b18500;
-    ;
+    color: $marron;
     font-size: 2.5rem;
-    width: 40rem;
+    width: 64rem;
+    font-family: $titulo;
 }
 
 .textMensaje {
     color: #ffffff;
     font-size: 1.1rem;
     margin-top: 1rem;
+    font-family: $parrafo;
 }
 
 .botonMensaje {
@@ -79,6 +83,7 @@ $bordercolor: #857416;
     justify-content: center;
     align-items: center;
     border-radius: 12px;
+    font-family: $titulo;
 }
 
 .botonMensaje:hover {
@@ -112,6 +117,7 @@ $bordercolor: #857416;
     color: $marron;
     font-size: 3rem;
     margin-bottom: 30px;
+    font-family: $titulo;
 }
 
 .servicios ul {
@@ -128,6 +134,7 @@ $bordercolor: #857416;
     width: 900px;
     text-align: center;
     border-radius: 33px;
+    font-family: $parrafo;
 }
 
 .servicios li:hover {
@@ -143,6 +150,7 @@ $bordercolor: #857416;
     font-size: 1.2rem;
     margin-left: 1px;
     margin-top: 30px;
+    font-family: $parrafo;
 }
 
 .botonVer:hover {
@@ -159,10 +167,11 @@ $bordercolor: #857416;
 }
 
 .equipo h2 {
-    color:$marron;
+    color: $marron;
     font-size: 3rem;
     text-align: center;
     margin-bottom: 54px;
+    font-family: $titulo;
 }
 
 .miembro {
@@ -171,6 +180,7 @@ $bordercolor: #857416;
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
+
 }
 
 .miembro img {
@@ -182,15 +192,17 @@ $bordercolor: #857416;
 }
 
 .miembro h3 {
-    color:$marron;
+    color: $marron;
     font-size: 18px;
     margin-top: 40px;
+    font-family: $titulo;
 }
 
 .miembro p {
-    color: #6e7072fb;
+    color: $azul;
     font-size: 16px;
     text-align: center;
+    font-family: $parrafo;
 }
 
 .miembro p:hover {
@@ -206,9 +218,10 @@ $bordercolor: #857416;
 }
 
 .galeria h2 {
-    color:$marron;
+    color: $marron;
     font-size: 3rem;
     margin-bottom: 78px;
+    font-family: $titulo;
 }
 
 
@@ -223,6 +236,8 @@ $bordercolor: #857416;
 .grid-item {
     overflow: hidden;
     border-radius: 5px;
+
+
 }
 
 .grid-item img {
@@ -243,10 +258,12 @@ $bordercolor: #857416;
 }
 
 .certificaciones h2 {
-    color:$marron;
+    color: $marron;
     font-size: 2.5rem;
     text-align: center;
     margin-bottom: 37px;
+    font-family: $titulo;
+    height: 60px;
 }
 
 .lista-certificaciones {
@@ -254,6 +271,7 @@ $bordercolor: #857416;
     padding: 0;
     margin: 0;
     text-align: center;
+    font-family: $parrafo;
 }
 
 .lista-certificaciones li {
@@ -319,7 +337,7 @@ $bordercolor: #857416;
     .main__mensaje {
         width: 100%;
         height: 19rem;
-        background-color:$azul;
+        background-color: $azul;
         display: flex;
         align-items: center;
         justify-content: space-around;
@@ -341,11 +359,11 @@ $bordercolor: #857416;
 
     .main__titleMensaje {
 
-        color: $marron;
-        font-size: 1.6em;
-        width: 355px;
+        color: #b18500;
+        font-size: 1.5rem;
+        width: 380px;
         margin-top: 23px;
-        margin-left: 12px;
+
     }
 
     .botonMensaje {
@@ -357,46 +375,61 @@ $bordercolor: #857416;
         align-items: center;
         border-radius: 12px;
     }
-    
+
     // imgagen principal
 
-.card-title {
-    font-size: 1.6rem;
-    text-decoration: none;
-    color:$marron;
-    margin-bottom: 18px;
-    margin-left: 5px;
-    width: 19rem;
-    background-color: #1a202954;
+    .card-title {
+        font-size: 1.6rem;
+        text-decoration: none;
+        color: $marron;
+        margin-bottom: 18px;
+        margin-left: 5px;
+        width: 15rem;
+        background-color: #1a202954;
 
-}
-
-
-.card-text {
-    font-size: 1rem;
-    text-decoration: none;
-    margin-left: 5px;
-    color: white;
-    height: 90px;
-    width: 244px;
-    background-color: #1a202978;
-}
+    }
 
 
-// Equipo
+    .card-text {
+        font-size: 1rem;
+        text-decoration: none;
+        margin-left: 5px;
+        color: white;
+        height: 139px;
+        width: 275px;
+        background-color: #1a202978;
+    }
 
-.equipo h2 {
-    color: $marron;
-    font-size: 2.5rem;
-    text-align: center;
-    margin-bottom: 54px;
-}
 
-// Galeria de imagenes
+    // Equipo
 
-.galeria h2 {
-    color:$marron;
-    font-size: 2.5rem;
-    margin-bottom: 78px;
-}
+    .equipo h2 {
+        color: $marron;
+        font-size: 2rem;
+        text-align: center;
+        margin-bottom: 54px;
+        height: 39px;
+    }
+
+    // Galeria de imagenes
+
+    .galeria h2 {
+        color: $marron;
+        font-size: 2rem;
+        margin-bottom: 78px;
+        height: 47px;
+    }
+
+
+    // certificaciones
+
+    .certificaciones h2 {
+        color: $marron;
+        font-size: 2rem;
+        text-align: center;
+        margin-bottom: 37px;
+        font-family: $titulo;
+        height: 105px;
+    }
+
 }

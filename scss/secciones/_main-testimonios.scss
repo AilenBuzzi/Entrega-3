@@ -1,7 +1,5 @@
-$marron:#b18500;
-$azul:#1a2029;
-$bordercolor: #857416;
-
+@import "../variables/colores";
+@import "../variables/fuentes";
 
 /* seccion testimonios */
 
@@ -10,7 +8,8 @@ $bordercolor: #857416;
     color: $marron;
     font-size: 3rem;
     text-align: center;
-    margin-top: 94px
+    margin-top: 94px;
+    font-family: $titulo;
     
 }
 
@@ -60,10 +59,13 @@ $bordercolor: #857416;
     /* seccion testimonios */
     .tituloTestimonio {
         color:$marron;
-        font-size: 2.5rem;
+        font-size: 2rem;
         text-align: center;
         margin-top: 46px;
         margin-bottom: 100px;
+        font-family: $titulo;
+        width: 383px;
+        height: 81px;
     }
 
     .testCarrusel {

@@ -1,6 +1,5 @@
-$marron:#b18500;
-$azul:#1a2029;
-$bordercolor: #857416;
+@import "../variables/colores";
+@import "../variables/fuentes";
 
 
 //   sección de servicios
@@ -12,6 +11,7 @@ $bordercolor: #857416;
 .servicios h2 {
     color:$marron;
     font-size: 3rem;
+    font-family: $titulo;
 }
 
 .servicios-grid {
@@ -25,6 +25,7 @@ $bordercolor: #857416;
     padding: 20px;
     background-color: #f9f9f9;
     border-radius: 5px;
+
 }
 
 .servicio img {
@@ -37,11 +38,13 @@ $bordercolor: #857416;
     color: $marron;
     font-size: 20px;
     margin-bottom: 10px;
+    font-family: $titulo;
 }
 
 .servicio p {
     color:$azul;
     font-size: 16px;
+    font-family: $parrafo;
 }
 
 .servicio:hover {
@@ -81,8 +84,10 @@ $bordercolor: #857416;
 
 .servicios h2 {
     color: $marron;
-    font-size: 2.5rem;
-    width: 350px;
+    font-size: 2rem;
+    width: 388px;
+    height: 39px;
+    
 }
 
 .servicios{
