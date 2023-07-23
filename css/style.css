@@ -390,6 +390,19 @@
     height: 139px;
     width: 275px;
     background-color: #1a202978; }
+  .serviciosIndex h2 {
+    color: #b18500;
+    font-size: 2rem;
+    margin-bottom: 30px;
+    font-family: "Libre Baskerville", serif; }
+  .botonVer {
+    border-radius: 49px;
+    background-color: #0e1116;
+    width: 893px;
+    font-size: 1.2rem;
+    margin-left: 280px;
+    margin-top: 30px;
+    font-family: "Lato", sans-serif; }
   .equipo h2 {
     color: #b18500;
     font-size: 2rem;
@@ -485,7 +498,7 @@
     font-size: 2rem;
     width: 388px;
     height: 3px; }
-  .servicios {
+  .serviciosIndex {
     width: 398px;
     padding: 40px;
     text-align: center; } }
