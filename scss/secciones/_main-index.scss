@@ -160,12 +160,13 @@
 /*  sección de servicios index */
 
 
-.serviciosIndex {
+.serviciosIndex.aos-init.aos-animate {
 
     padding: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
 }
 
 .serviciosIndex h2 {
