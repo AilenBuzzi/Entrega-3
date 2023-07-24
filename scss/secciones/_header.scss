@@ -2,16 +2,20 @@
 @import "../variables/fuentes";
 
 /* HEADER */
+
+
 .encabezado {
     display: flex;
     align-items: center;
     justify-content: center;
+      background-color: white;
 }
 
 .imgLogo {
     width: 500px;
     border-radius: 50%;
     margin-right: 53px;
+ 
 
 }
 
@@ -84,3 +88,4 @@
         height: 200px;
     }
 }
+

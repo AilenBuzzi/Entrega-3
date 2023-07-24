@@ -6,6 +6,7 @@
 .servicios {
     padding: 40px;
     text-align: center;
+    
 }
 
 .servicios h2 {
@@ -25,6 +26,7 @@
     padding: 20px;
     background-color: #f9f9f9;
     border-radius: 5px;
+  
 
 }
 
@@ -50,8 +52,8 @@
 
 .servicio:hover {
     background-color: #8a7c2eb2;
-    transform: scale(1.1);
-    
+    // transform: scale(1.1); 
+//    queria aplicar transform pero se me desborda y no pude arreglarlo
 }
 
 .servicio h3:hover {

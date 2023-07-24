@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/issues</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/pulls</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/projects?query=is%3Aopen</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/security</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/blob/main/README_SASS.txt</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/releases</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/compare</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/caches</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5638639404</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5638313238</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5634092163</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5633129791</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5631742291</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5626847226</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5592092209</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels?sort=name-asc</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels?sort=name-desc</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels?sort=count-desc</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels?sort=count-asc</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels/bug</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels/documentation</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels/duplicate</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels/enhancement</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels/good%20first%20issue</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels/help%20wanted</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels/invalid</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels/question</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/labels/wontfix</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?state=open</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?state=closed</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5638639404/job/15272980669</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5638639404/job/15272984523</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5638639404/job/15272984592</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5638639404/usage</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/commit/70c84afcd2e5db00fb8ee214f0c9cd5ccff75f6f</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5638313238/job/15272312440</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5638313238/job/15272316325</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5638313238/job/15272316395</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5638313238/usage</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/commit/ddc0d17a525e059039a1dfc112309381cd85cbb4</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5634092163/job/15263674620</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5634092163/job/15263680485</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5634092163/job/15263680554</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5634092163/usage</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/commit/e8400d02e43d5b7696700c42551c371e0d74e3e0</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5633129791/job/15261709378</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5633129791/job/15261712227</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5633129791/job/15261712271</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5633129791/usage</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/commit/6a0d2cc027dbb9609d08660fee29a9545e1804b0</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5631742291/job/15259008250</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5631742291/job/15259011719</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5631742291/job/15259011666</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5631742291/usage</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/commit/4f8f96303fbac70d041711cadf86000ba88e9844</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5626847226/job/15248426196</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5626847226/job/15248433961</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5626847226/job/15248434080</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5626847226/usage</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/commit/a54d1723461d04efcc18a480378397fce7cd8eec</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5592092209/job/15146672157</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5592092209/job/15146688997</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5592092209/job/15146689271</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/actions/runs/5592092209/usage</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/commit/f603aec1e2b48f88e06a6a6ed30b6d404cc130bf</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AilenBuzzi/Entrega-3/commit/fb992589793100facc0bb0ddf57f57f02e7f1a73</loc>
+  <lastmod>2023-07-23T21:33:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>

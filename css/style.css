@@ -25,7 +25,8 @@
 .encabezado {
   display: flex;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+  background-color: white; }
 
 .imgLogo {
   width: 500px;
@@ -194,7 +195,8 @@
   font-size: 1.2rem;
   margin-left: 1px;
   margin-top: 30px;
-  font-family: "Lato", sans-serif; }
+  font-family: "Lato", sans-serif;
+  margin-bottom: 93px; }
 
 .botonVer:hover {
   background-color: #1a2029c4; }
@@ -204,7 +206,7 @@
   padding: 20px;
   background-color: #adb5bd42;
   margin-top: 109px;
-  margin-bottom: 108px; }
+  margin-bottom: 237px; }
 
 .equipo h2 {
   color: #b18500;
@@ -277,7 +279,8 @@
 /* Certificaciones */
 .certificaciones {
   background-color: #adb5bd42;
-  padding: 20px; }
+  padding: 20px;
+  margin-bottom: 41px; }
 
 .certificaciones h2 {
   color: #b18500;
@@ -309,7 +312,8 @@
 /* Contactanos */
 .cta {
   padding: 40px;
-  text-align: center; }
+  text-align: center;
+  margin-bottom: 69px; }
 
 .cta h2 {
   color: #b18500;
@@ -360,7 +364,8 @@
     font-size: 1rem;
     margin-top: 36px;
     width: 359px;
-    text-align: inherit; }
+    text-align: inherit;
+    font-family: "Lato", sans-serif; }
   .main__titleMensaje {
     color: #b18500;
     font-size: 1.5rem;
@@ -466,8 +471,7 @@
   font-family: "Lato", sans-serif; }
 
 .servicio:hover {
-  background-color: #8a7c2eb2;
-  transform: scale(1.1); }
+  background-color: #8a7c2eb2; }
 
 .servicio h3:hover {
   color: #d8c34f; }
