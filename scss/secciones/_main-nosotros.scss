@@ -3,37 +3,38 @@
 
 /* SOBRE NOSOTROS */
 
-.tituloNosotros {
-    text-align: center;
-    margin-left: 297px;
+
+
+ .tituloNosotros {
+     text-align: center;
+     margin-left: 297px;
     margin-bottom: 3rem;
     font-family: $titulo;
-    font-size: 3rem;
+     font-size: 3rem;
     color: $marron;
-    margin-top: 110px;
+     margin-top: 110px;
+ }
+
+ .imgEscribania {
+width: 100%;
+     border-radius: 1%;
 }
 
-.imgEscribania {
-    width: 100%;
-    border-radius: 1%;
-}
 
 
-
-.parrafoNosotros {
-    font-size: 1rem;
-    color: $azul;
-    font-family: $parrafo;
+ .parrafoNosotros {
+     font-size: 1rem;
+    color: $azul;     font-family: $parrafo;
     margin-left: 95px;
     font-size: 1.5rem;
     margin-right: 13rem;
-    width: 34rem;
+     width: 34rem;
 }
 
 
-.contenidoNosotros {
-    display: flex;
-    flex-direction: row;
+ .contenidoNosotros {
+     display: flex;
+     flex-direction: row;
     justify-content: center;
     padding: 3rem;
     margin-bottom: 6rem;
@@ -44,7 +45,7 @@
 
 @media screen and (max-width: 768px) {
 
-  
+
 
     /* SOBRE NOSOTROS */
 

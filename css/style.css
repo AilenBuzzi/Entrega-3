@@ -60,7 +60,12 @@
   color: #9a8b38; }
 
 .navbar-toggler {
-  background-color: white; }
+  background-color: transparent; }
+
+.header__imgNav {
+  vertical-align: middle;
+  width: 23px;
+  background-color: transparent; }
 
 .nav-item {
   margin-left: 102px;
@@ -765,6 +770,7 @@ section div form {
   .form-label {
     font-size: 14px; } }
 
+/* Estilos generales del footer */
 footer {
   background-color: #1a2029;
   color: #fff;

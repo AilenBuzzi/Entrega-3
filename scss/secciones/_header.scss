@@ -8,14 +8,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
-      background-color: white;
+    background-color: white;
 }
 
 .imgLogo {
     width: 360px;
     border-radius: 50%;
     margin-right: 23px;
- 
 
 }
 
@@ -54,8 +53,13 @@
 }
 
 .navbar-toggler {
-    background-color: white;
+    background-color:transparent;
 
+}
+.header__imgNav{
+    vertical-align: middle;
+    width: 23px;
+    background-color: transparent;
 }
 
 .nav-item {
@@ -88,4 +92,3 @@
         height: 200px;
     }
 }
-
