@@ -86,50 +86,49 @@
     height: 200px; } }
 
 /*botón flotante */
-.floating-button {
-  position: fixed;
-  bottom: 30px;
-  right: 30px;
+.botonFlotante .floating-button {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
   background-color: #0e1116;
-  color: white;
-  width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 30px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-  z-index: 1; }
-
-.floating-button:hover {
-  background-color: #3a4564; }
-
-.fas {
-  color: white; }
-
-/*  botón flotante de WhatsApp */
-.whatsapp-button {
   position: fixed;
-  bottom: 100px;
   right: 30px;
-  background-color: #25d366;
   color: white;
-  width: 60px;
-  height: 60px;
-  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 24px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  z-index: 1;
   text-decoration: none;
-  z-index: 1; }
+  bottom: 30px; }
+  .botonFlotante .floating-button .fas {
+    color: white; }
+
+.botonFlotante .whatsapp-button {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #25d366;
+  position: fixed;
+  right: 30px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  z-index: 1;
+  text-decoration: none;
+  bottom: 100px; }
 
 .whatsapp-button:hover {
   background-color: #128c7e; }
+
+.floating-button:hover {
+  background-color: #3a4564; }
 
 .cardtext-bg-dark {
   border-radius: 0%; }
@@ -141,8 +140,8 @@
   font-family: "Libre Baskerville", serif;
   margin-bottom: 18px;
   margin-left: 5px;
-  height: 205px;
-  width: 60rem; }
+  height: 240px;
+  width: 50rem; }
 
 .card-text {
   font-size: 20px;
@@ -440,15 +439,15 @@
     color: #b18500;
     margin-bottom: 18px;
     margin-left: 5px;
-    width: 15rem;
+    width: 19rem;
     background-color: #1a202954; }
   .card-text {
     font-size: 1rem;
     text-decoration: none;
-    margin-left: 5px;
+    margin-left: -2px;
     color: white;
-    height: 139px;
-    width: 275px;
+    height: 179px;
+    width: 349px;
     background-color: #1a202978; }
   .serviciosIndex li {
     margin-bottom: 10px;
