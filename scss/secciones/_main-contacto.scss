@@ -3,50 +3,62 @@
 
 // /* FORMULARIO SECCION CONTACTO*/
 
-.main__tituloFormulario {
-    text-align: center;
-    margin-top: 3rem;
-    margin-bottom: 4rem;
-    font-family: $titulo;
-    font-size: 3rem;
-    color: $marron ;
+
+section {
+    div {
+        h2 {
+            text-align: center;
+            margin-top: 3rem;
+            margin-bottom: 4rem;
+            font-family: $titulo;
+            font-size: 3rem;
+            color: $marron ;
+        }
+    }
+
+    div {
+        form {
+            display: flex;
+            margin-top: 60px;
+            width: 50%;
+            align-items: stretch;
+            flex-direction: column;
+            margin-left: 436px;
+            margin-bottom: 137px;
+
+            div {
+                label {
+                    font-family: $titulo;
+                    color: $azul;
+                }
+
+                input:hover {
+                    background-color: #1a20293b;
+                    border-color: inherit;
+                    box-shadow: none;
+
+                }
+            }
+
+            .buttonForm {
+                color: white;
+                background-color: $azul;
+                border-color: 0%;
+                font-family: $parrafo;
+            }
+
+            .buttonForm:hover {
+                background-color: #1a2029c4;
+            }
+
+        }
+
+    }
+
 }
 
-.form {
-
-    display: flex;
-    margin-top: 60px;
-    width: 50%;
-    align-items: stretch;
-    flex-direction: column;
-    margin-left: 436px;
-    margin-bottom: 137px;
-}
-
-.buttonForm {
-    color: white;
-    background-color: $azul;
-    border-color: 0%;
-    font-family: $parrafo;
-}
-
-.buttonForm:hover {
-    background-color: #1a2029c4;
-}
 
 
-
-.form-control:hover {
-    background-color: #1a20293b;
-    border-color: inherit;
-    box-shadow: none;
-}
-
-
-.form-label {
-    font-family: $titulo;
-    color: $azul;
-}
 
 @media screen and (max-width: 768px) {
 

@@ -29,7 +29,7 @@
   background-color: white; }
 
 .imgLogo {
-  width: 400px;
+  width: 360px;
   border-radius: 50%;
   margin-right: 23px; }
 
@@ -718,7 +718,7 @@
   .carousel-control-prev {
     margin-left: 242px; } }
 
-.main__tituloFormulario {
+section div h2 {
   text-align: center;
   margin-top: 3rem;
   margin-bottom: 4rem;
@@ -726,7 +726,7 @@
   font-size: 3rem;
   color: #b18500; }
 
-.form {
+section div form {
   display: flex;
   margin-top: 60px;
   width: 50%;
@@ -734,24 +734,20 @@
   flex-direction: column;
   margin-left: 436px;
   margin-bottom: 137px; }
-
-.buttonForm {
-  color: white;
-  background-color: #0e1116;
-  border-color: 0%;
-  font-family: "Lato", sans-serif; }
-
-.buttonForm:hover {
-  background-color: #1a2029c4; }
-
-.form-control:hover {
-  background-color: #1a20293b;
-  border-color: inherit;
-  box-shadow: none; }
-
-.form-label {
-  font-family: "Libre Baskerville", serif;
-  color: #0e1116; }
+  section div form div label {
+    font-family: "Libre Baskerville", serif;
+    color: #0e1116; }
+  section div form div input:hover {
+    background-color: #1a20293b;
+    border-color: inherit;
+    box-shadow: none; }
+  section div form .buttonForm {
+    color: white;
+    background-color: #0e1116;
+    border-color: 0%;
+    font-family: "Lato", sans-serif; }
+  section div form .buttonForm:hover {
+    background-color: #1a2029c4; }
 
 @media screen and (max-width: 768px) {
   /* FORMULARIO SECCION CONTACTO */
